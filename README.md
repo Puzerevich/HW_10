@@ -1,4 +1,4 @@
-# HW_10# HW_10
+# HW_10# 
 
 1. Створити клас ValueCalculator
 
